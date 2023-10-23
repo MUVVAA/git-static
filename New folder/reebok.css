@@ -1,0 +1,71 @@
+.navbar-brand img{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.nav a{
+ text-decoration: none;
+ margin-left: 400px;
+}
+#carouselExample{
+  width: 1450px;
+  margin-left: 30px;
+}
+#carouselExampleSlidesOnly{
+  width: 1450px;
+  margin-left: 30px;
+}
+.card-group{
+    height: 500px;
+    width: 1500px;
+    gap: 50px;
+    margin-left: 50px;
+    margin-top: 250px;
+}
+.card-groups{
+  width: 1500px;
+  height: 750px;
+  gap: 20px;
+  display:flex ;
+  margin-top: 200px;
+  margin-left: 100px;
+}
+h7{
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  position: absolute;
+  margin-top: -100px;
+  margin-left: 100px;
+}
+#sec1{
+  margin-top: 200px;
+  gap: 30px;
+  margin-left: 100px;
+}
+#sec{
+  width: 100px;
+  height: 50px;
+  margin-left: 10px;
+}
+#p1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  height: 50px;
+}
+#sec1 p{
+margin-left: 10px;
+font-size: 40px;
+}
+#i1{
+  height: 50px;
+  width: 50px;
+  border-radius: none;
+}
+#main-sec{
+  background-color: rgb(46, 43, 43);
+  display: flex;
+}
+#d1 h1{
+  font-size: 100px;
+}
